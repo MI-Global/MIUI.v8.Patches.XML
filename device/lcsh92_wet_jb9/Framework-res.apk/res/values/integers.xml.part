@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_notificationsBatteryLowARGB">0xffff0000</integer>
+    <integer name="config_notificationsBatteryMediumARGB">0xff00ff00</integer>
+    <integer name="config_notificationsBatteryFullARGB">0xff0000ff</integer>
+    <integer name="config_screenBrightnessSettingMinimum">10</integer>
+    <integer name="config_screenBrightnessSettingMaximum">255</integer>
+    <integer name="config_screenBrightnessSettingDefault">102</integer>
+    <integer name="config_screenBrightnessDim">50</integer>
+    <integer name="config_lightSensorWarmupTime">0</integer>
+</resources>

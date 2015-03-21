@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="call_info_padding_start">10.0dip</dimen>
+    <dimen name="call_info_padding_end">10.0dip</dimen>
+    <dimen name="incoming_panel_height">300.0dip</dimen>
+    <dimen name="incoming_panel_padding_top">30.0dip</dimen>
+</resources>
