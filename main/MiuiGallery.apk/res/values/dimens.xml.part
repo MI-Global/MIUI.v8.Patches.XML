@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <dimen name="paint_effects_menu_height">60.0dip</dimen>
+   <dimen name="paint_effects_menu_width_land">60.0dip</dimen>
+   <dimen name="paint_effects_menu_item_text_size">9.0sp</dimen>
+   <dimen name="paint_crop_bottom_view_margin_land">63.0dip</dimen>
+   <dimen name="paint_adjust_textview_maxwidth">90.0dip</dimen>
+</resources>
