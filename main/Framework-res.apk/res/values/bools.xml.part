@@ -5,4 +5,5 @@
     <bool name="is_phone_call_noise_suppression_supported">true</bool>
     <bool name="config_use_strict_phone_number_comparation">false</bool>
     <bool name="config_animateScreenLights">false</bool>
+    <bool name="config_useVolumeKeySounds">true</bool>
 </resources>
