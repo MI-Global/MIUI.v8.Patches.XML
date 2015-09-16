@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crt_animation">Enable CRT animation</string>
+    <string name="crt_summary">Oldstyle TV switch off animation</string>
+    <string name="engineermode">MTK Engineer Mode</string>
+    <string name="smartwake_summary">Off screen gestures</string>
+    <string name="primary_storage_title">Partitions order</string>
+</resources>

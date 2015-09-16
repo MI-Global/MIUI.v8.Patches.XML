@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crt_animation">Ефект виключення ЕПТ</string>
+    <string name="crt_summary">Анімація виключення старого телевізора</string>
+    <string name="engineermode">Інженерне меню MTK</string>
+    <string name="primary_storage_title">Вибір основного розділу</string>
+    <string name="smartwake_summary">Включення жестами по екрану</string>
+</resources>

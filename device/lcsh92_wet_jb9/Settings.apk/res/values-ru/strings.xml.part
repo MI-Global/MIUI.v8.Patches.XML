@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crt_animation">Эффект выключения ЭЛТ</string>
+    <string name="crt_summary">Анимация выключения старого телевизора</string>
+    <string name="engineermode">Инженерное меню MTK</string>
+    <string name="primary_storage_title">Выбор основного раздела</string>
+    <string name="smartwake_summary">Включение жестами по экрану</string>
+</resources>

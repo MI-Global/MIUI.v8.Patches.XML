@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="primary_storage_entries">
+        <item>1-Встроенный раздел, 2-SD карта</item>
+        <item>1-SD карта, 2-Встроенный раздел</item>
+        <item>Только встроенный раздел</item>
+        <item>Только SD карта</item>
+    </string-array>
+</resources>
