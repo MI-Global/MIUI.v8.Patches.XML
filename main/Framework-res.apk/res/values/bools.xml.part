@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <bool name="has_led">true</bool>
-    <bool name="led_freq_enable">true</bool>
-    <bool name="is_phone_call_noise_suppression_supported">true</bool>
     <bool name="config_use_strict_phone_number_comparation">false</bool>
     <bool name="config_animateScreenLights">false</bool>
+    <bool name="is_phone_call_noise_suppression_supported">true</bool>
     <bool name="config_useVolumeKeySounds">true</bool>
 </resources>
