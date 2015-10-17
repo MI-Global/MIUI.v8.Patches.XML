@@ -5,4 +5,6 @@
     <string name="engineermode">MTK Engineer Mode</string>
     <string name="smartwake_summary">Off screen gestures</string>
     <string name="primary_storage_title">Partitions order</string>
+    <string name="volume_skip_track_title">Switch tracks by volume keys</string>
+    <string name="volume_skip_track_summary">Double pressing volume keys when playing music in offscreen mode will switch tracks</string>
 </resources>
