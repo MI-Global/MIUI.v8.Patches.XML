@@ -2,4 +2,6 @@
 <resources>
     <string name="charging_sounds">Звук подключения зарядки</string>
     <string name="volume_sounds">Звук при изменении громкости</string>
+    <string name="volume_skip_track_title">Переключение треков</string>
+    <string name="volume_skip_track_summary">Долгое нажатие кнопок громкости во время воспроизведения при выключенном экране будет переключать треки</string>
 </resources>

@@ -2,4 +2,6 @@
 <resources>
     <string name="charging_sounds">Plug in charger sound</string>
     <string name="volume_sounds">Volume changing tone</string>
+    <string name="volume_skip_track_title">Switch tracks by volume keys</string>
+    <string name="volume_skip_track_summary">Long pressing volume keys when playing music in offscreen mode will switch tracks</string>
 </resources>

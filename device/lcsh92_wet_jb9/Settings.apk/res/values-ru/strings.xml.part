@@ -5,6 +5,4 @@
     <string name="engineermode">Инженерное меню MTK</string>
     <string name="primary_storage_title">Выбор основного раздела</string>
     <string name="smartwake_summary">Включение жестами по экрану</string>
-    <string name="volume_skip_track_title">Переключение треков</string>
-    <string name="volume_skip_track_summary">Быстрое двойное нажатие кнопок громкости во время воспроизведения при выключенном экране будет переключать треки</string>
 </resources>
