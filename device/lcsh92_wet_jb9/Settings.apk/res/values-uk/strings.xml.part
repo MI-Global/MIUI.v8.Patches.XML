@@ -5,4 +5,6 @@
     <string name="engineermode">Інженерне меню MTK</string>
     <string name="primary_storage_title">Вибір основного розділу</string>
     <string name="smartwake_summary">Включення жестами по екрану</string>
+    <string name="hide_player title">Сховати віджет плеєра</string>
+    <string name="hide_player summary">Сховати віджет плеєра і розширити область перемикачів</string>
 </resources>

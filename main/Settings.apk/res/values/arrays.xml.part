@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="primary_storage_entries">
-        <item>1-Internal storage, 2-SD card</item>
-        <item>1- SD card, 2-Internal storage</item>
-        <item>Only Internal storage</item>
-        <item>Only SD card</item>
-    </string-array>
-    <string-array name="primary_storage_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="default_install_location_entries">
         <item>Let the system decide</item>
         <item>Internal memory (/data)</item>

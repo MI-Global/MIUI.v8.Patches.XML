@@ -5,4 +5,6 @@
     <string name="engineermode">MTK Engineer Mode</string>
     <string name="smartwake_summary">Off screen gestures</string>
     <string name="primary_storage_title">Partitions order</string>
+    <string name="hide_player_title">Hide player widget</string>
+    <string name="hide_player_summary">Hide music player widget and expand toggles</string>
 </resources>

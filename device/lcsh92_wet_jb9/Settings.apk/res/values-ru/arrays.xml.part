@@ -6,4 +6,9 @@
         <item>Только встроенный раздел</item>
         <item>Только SD карта</item>
     </string-array>
+    <string-array name="default_install_location_entries">
+        <item>На усмотрение системы</item>
+        <item>Внутренняя память (/data)</item>
+        <item>Внешняя память (/sdcard)</item>
+    </string-array>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_install_location_entries">
+        <item>На усмотрение системы</item>
+        <item>Внутренняя память (/data)</item>
+        <item>Внешняя память (/sdcard)</item>
+    </string-array>
+</resources>
