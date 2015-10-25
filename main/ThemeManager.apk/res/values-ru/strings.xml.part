@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="resource_title_local">Телефон</string>
+     <string name="resource_title_subject">Подборка</string>
+     <string name="theme_multiple_button_title_customize">Компоненты</string>
+     <string name="title_component">Компоненты</string>
+</resources>
