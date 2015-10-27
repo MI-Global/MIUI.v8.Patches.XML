@@ -6,9 +6,9 @@
 		<item>Тільки вбудований розділ</item>
 		<item>Тільки SD карта</item>
      </string-array>
-    <string-array name="default_install_location_entries">
-        <item>На розсуд системи</item>
-        <item>"Внутрішня пам'ять (/data)"</item>
-        <item>"Зовнішня пам'ять (/sdcard)"</item>
+    <string-array name="led_color_entries">
+		<item>Синій</item>
+		<item>Червоний</item>
+		<item>Зелений</item>
     </string-array>
 </resources>
