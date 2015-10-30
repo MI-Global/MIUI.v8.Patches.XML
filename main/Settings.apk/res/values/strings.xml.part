@@ -6,6 +6,6 @@
     <string name="volume_skip_track_summary">Long pressing volume keys when playing music in offscreen mode will switch tracks</string>
     <string name="volume_skip_track_summary">Long pressing volume keys when playing music in offscreen mode will switch tracks</string>
     <string name="tweaks_category">System tweaks</string>
-    <string name="global_title">International mode</string>
-    <string name="global_summary">Disable most Chinese online services. Warning! after enabling device may have boot failure.</string>
+    <string name="is_global_title">International mode</string>
+    <string name="is_global_summary">Disable most Chinese online services. Warning! after enabling device may have boot failure.</string>
 </resources>
