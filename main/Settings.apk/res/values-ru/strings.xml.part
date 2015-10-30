@@ -4,4 +4,7 @@
     <string name="volume_sounds">Звук при изменении громкости</string>
     <string name="volume_skip_track_title">Переключение треков</string>
     <string name="volume_skip_track_summary">Долгое нажатие кнопок громкости во время воспроизведения при выключенном экране будет переключать треки</string>
+    <string name="tweaks_category">Системные твики</string>
+    <string name="global_title">Международный режим</string>
+    <string name="global_summary">Отключение большинства китайских онлайн сервисов. Внимание! Этот режим может работать с ошибками! Перед включением рекомендуется бэкап.</string>
 </resources>
