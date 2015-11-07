@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds">"Suono d'inserimento caricabatterie"</string>
+    <string name="volume_sounds">Suono quando si cambia volume</string>
+    <string name="volume_skip_track_title">Cambia traccia con i tasti del volume</string>
+    <string name="volume_skip_track_summary">Durante la riproduzione musica a schermo spento, premendo a lungo i tasti del volume cambierà traccia</string>
+    <string name="tweaks_category">Modifiche al Sistema</string>
+    <string name="is_global_title">Modalità Internazionale</string>
+    <string name="is_global_summary">Disattiva molti servizi online Cinesi. Attenzione! Dopo attivazione il device potrebbe andare in bootloop</string>
+</resources>

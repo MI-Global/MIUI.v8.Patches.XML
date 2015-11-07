@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crt_animation">"Attiva effetto per l'animazione di blocco"</string>
+    <string name="crt_summary">Animazione di blocco con effetto TV a tubo catodico</string>
+    <string name="engineermode">MTK Engineer Mode</string>
+    <string name="smartwake_summary">Gesture a schermo spento</string>
+    <string name="primary_storage_title">Ordine di partizione</string>
+    <string name="hide_player_title">Nascondi widget del lettore musicale</string>
+    <string name="hide_player_summary">Nascondi widget del lettore musicale ed espandi i toggles</string>
+</resources>
