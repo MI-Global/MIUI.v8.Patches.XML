@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="message_edit_counter_text_font_size">11.0sp</dimen>
+    <dimen name="message_header_title_text_font_size">15.0sp</dimen>
+    <item type="dimen" name="edit_text_size">@dimen/edit_text_size_small</item>
+</resources>
