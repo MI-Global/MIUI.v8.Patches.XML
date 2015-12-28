@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="expanded_status_bar_content_height">515.0dip</dimen>
+	<dimen name="expanded_status_bar_toggles_height">495.0dip</dimen>
+	<dimen name="expanded_status_bar_toggles_padding_bottom">0.0dip</dimen>
+	<dimen name="expanded_status_bar_brightness_panel_padding_bottom">0.0dip</dimen>
+	<dimen name="expanded_status_bar_toggles_brightness_panel_height">60.0dip</dimen>
+    	<dimen name="expanded_status_bar_toggle_max_height">86.0dip</dimen>
+</resources>
