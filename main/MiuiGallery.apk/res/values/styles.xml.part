@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="PaintMenuItemStyle">
-        <item name="android:textSize">@dimen/paint_effects_menu_item_text_size</item>
-        <item name="android:textColor">@color/white_50_transparent</item>
-        <item name="android:gravity">center</item>
-        <item name="android:paddingTop">@dimen/paint_effects_menu_item_padding_top</item>
-        <item name="android:layout_width">70.0dip</item>
-        <item name="android:layout_height">fill_parent</item>
-        <item name="android:layout_marginLeft">@dimen/paint_effects_menu_item_margin_left</item>
-        <item name="android:layout_marginRight">@dimen/paint_effects_menu_item_margin_left</item>
-        <item name="android:layout_weight">1.0</item>
-        <item name="android:singleLine">true</item>
-    </style>
+	<style name="PaintCropMenuItemStyle">
+		<item name="android:textSize">@dimen/paint_effects_menu_item_text_size</item>
+		<item name="android:textColor">@color/white_50_transparent</item>
+		<item name="android:gravity">center_horizontal</item>
+		<item name="android:paddingTop">@dimen/paint_effects_menu_item_padding_top</item>
+		<item name="android:layout_width">@dimen/paint_crop_bottom_view_width</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:singleLine">true</item>
+	</style>
 </resources>
