@@ -17,9 +17,4 @@
         <item>Rosso</item>
         <item>Verde</item>
     </string-array>
-    <string-array name="led_color_values">
-        <item>Blu</item>
-        <item>Rosso</item>
-        <item>Verde</item>
-    </string-array>
 </resources>
