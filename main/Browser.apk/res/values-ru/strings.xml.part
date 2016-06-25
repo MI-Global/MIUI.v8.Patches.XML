@@ -2,4 +2,8 @@
 <resources>
     <string name="tab_hotpage">Яндекс</string>
      <string name="homepage_more_cards">Яндекс</string>
+    <string name="add_shortcut">Добавить ярлык</string>
+    <string name="add_shortcut_success">Ярлык добавлен</string>
+    <string name="sendstartpage">Домашняя страница</string>
+    <string name="senddesktop">Рабочий стол</string>
 </resources>
