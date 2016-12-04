@@ -6,9 +6,4 @@
         <item>Только встроенный раздел</item>
         <item>Только SD карта</item>
     </string-array>
-    <string-array name="led_color_entries">
-		<item>Синий</item>
-		<item>Красный</item>
-		<item>Зеленый</item>
-    </string-array>
 </resources>
